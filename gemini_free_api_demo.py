@@ -1,3 +1,5 @@
+#Read the documentation provided while creating the api key on google studio
+
 #first create the api key from  google studio platform then pass your api key to the below snippet or keep in .env file and use it.
 
 from google import genai
